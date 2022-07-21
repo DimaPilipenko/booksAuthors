@@ -17,6 +17,6 @@
 - Add Lombok plugin to IntelliJ IDEA
 - Configure application.properties file
 - Run this app
-- Install Postman for testing this app
+- Install Postman for testing this app.
 
 
